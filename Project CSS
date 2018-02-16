@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+	<link href="styles.css" rel="stylesheet">
+</head>
+<body>
+	<div class="first">
+
+		<h3 class="name">Ozzie(my dog)</h3>
+
+		<img src="Poza.jpg" alt="Ozzie" class="photo">
+		<div class="second">
+
+			<p class="fact">During this summer a wire from my electric box started smelling awkward but I did not notice till
+			Ozzie managed to make me know that there was something wrong. If it was not for his help during that day
+		  my house would have burned down. Is strange to see how a dog so small can save your life in a hard situation.
+		  </p>
+			<ul class=list>
+
+				<li><span class="content">Diet</span>: He eats all sort of things from Ice cream to Beef</li>
+				<li><span class="content">Attitude</span>: He loves everyone</li>
+				<li><span class="content">Toys</span>: Balls mostly but also he has a little Teddy bear </li>
+				<li><span class="content">Friends</span>: All the possible dogs but also all the friendly humans</li>
+			</ul>
+
+			<p>The Bichon Frise (pronounced BEE-shawn FREE-say; the plural is Bichons Frises)
+				is a cheerful, small dog breed with a love of mischief and a lot of love to give.
+				With his black eyes and fluffy white coat, the Bichon looks almost like a child’s toy.
+				And it doesn’t take long to realize that the Bichon can be your happiest and most enthusiastic companion.</p>
+		</div>
+	</div>
+</body>
+</html>
